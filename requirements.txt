@@ -1,0 +1,7 @@
+transformers
+langchain
+numpy
+spacy
+streamlit
+torch
+pandas
