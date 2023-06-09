@@ -21,5 +21,5 @@ pip install -r requirements.txt
 # Usage
 Run the following command to start the UI server.
 ```sh
-python run st_copy.py
+streamlit run st_copy.py
 ```
