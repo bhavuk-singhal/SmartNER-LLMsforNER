@@ -1,6 +1,8 @@
 # SmartNER-LLMsforNER
 This project extracts named entites in a zero-shot setup using LLMs.
 
+https://github.com/bhavuk-singhal/hackfy24-SmartNER/assets/123436135/87ccbfb4-a969-41b0-ba81-cf439e34a5b6
+
 # Installation
 
 This code requires [Python 3.9](https://www.python.org/downloads/release/python-3913/) to run.
